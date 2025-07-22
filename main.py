@@ -21,4 +21,3 @@ if __name__ == "__main__":
     finally:
         # Ensure database connections are closed even if an exception occurs
         close_db_pool()
- 
