@@ -20,4 +20,4 @@ if __name__ == "__main__":
         bot.infinity_polling()
     finally:
         # Ensure database connections are closed even if an exception occurs
-        close_db_pool()
+        close_db_pool() 
